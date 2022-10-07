@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MEGA SONIC.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MEGA SONIC DOWN0000" x="0" y="0" width="397" height="728" frameX="-64" frameY="0" frameWidth="478" frameHeight="739"/>
+	<SubTexture name="MEGA SONIC DOWN0001" x="397" y="0" width="396" height="555" frameX="-65" frameY="-163" frameWidth="478" frameHeight="739"/>
+	<SubTexture name="MEGA SONIC DOWN0002" x="397" y="0" width="396" height="555" frameX="-65" frameY="-163" frameWidth="478" frameHeight="739"/>
+	<SubTexture name="MEGA SONIC DOWN0003" x="793" y="0" width="398" height="630" frameX="-80" frameY="-109" frameWidth="478" frameHeight="739"/>
+	<SubTexture name="MEGA SONIC DOWN0004" x="1191" y="0" width="398" height="577" frameX="-80" frameY="-109" frameWidth="478" frameHeight="739"/>
+	<SubTexture name="MEGA SONIC DOWN0005" x="1589" y="0" width="406" height="591" frameX="-56" frameY="-66" frameWidth="478" frameHeight="739"/>
+	<SubTexture name="MEGA SONIC DOWN0006" x="1995" y="0" width="412" height="630" frameX="-56" frameY="-66" frameWidth="478" frameHeight="739"/>
+	<SubTexture name="MEGA SONIC DOWN0007" x="2407" y="0" width="414" height="614" frameX="0" frameY="-16" frameWidth="478" frameHeight="739"/>
+	<SubTexture name="MEGA SONIC IDLE0000" x="2821" y="0" width="421" height="720" frameX="-25" frameY="-33" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0001" x="3242" y="0" width="421" height="698" frameX="-25" frameY="-55" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0002" x="3663" y="0" width="423" height="705" frameX="-41" frameY="-37" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0003" x="4086" y="0" width="423" height="705" frameX="-41" frameY="-37" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0004" x="4509" y="0" width="414" height="705" frameX="-37" frameY="-16" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0005" x="4509" y="0" width="414" height="705" frameX="-37" frameY="-16" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0006" x="4923" y="0" width="421" height="702" frameX="-32" frameY="-5" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0007" x="5344" y="0" width="398" height="702" frameX="-32" frameY="-5" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0008" x="5742" y="0" width="398" height="705" frameX="-22" frameY="0" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0009" x="6140" y="0" width="398" height="700" frameX="-22" frameY="0" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0010" x="6538" y="0" width="405" height="701" frameX="-12" frameY="-3" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0011" x="6943" y="0" width="406" height="720" frameX="-12" frameY="-3" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0012" x="7349" y="0" width="408" height="701" frameX="-8" frameY="-7" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0013" x="7349" y="0" width="408" height="701" frameX="-8" frameY="-7" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0014" x="7757" y="0" width="409" height="700" frameX="-2" frameY="-13" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0015" x="7757" y="0" width="409" height="700" frameX="-2" frameY="-13" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0016" x="0" y="728" width="408" height="701" frameX="0" frameY="-18" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC IDLE0017" x="0" y="728" width="408" height="701" frameX="0" frameY="-18" frameWidth="464" frameHeight="753"/>
+	<SubTexture name="MEGA SONIC LEFT0000" x="408" y="728" width="513" height="685" frameX="-13" frameY="-1" frameWidth="578" frameHeight="705"/>
+	<SubTexture name="MEGA SONIC LEFT0001" x="921" y="728" width="512" height="688" frameX="-6" frameY="0" frameWidth="578" frameHeight="705"/>
+	<SubTexture name="MEGA SONIC LEFT0002" x="921" y="728" width="512" height="688" frameX="-6" frameY="0" frameWidth="578" frameHeight="705"/>
+	<SubTexture name="MEGA SONIC LEFT0003" x="1433" y="728" width="508" height="688" frameX="0" frameY="-4" frameWidth="578" frameHeight="705"/>
+	<SubTexture name="MEGA SONIC LEFT0004" x="1941" y="728" width="508" height="688" frameX="0" frameY="-4" frameWidth="578" frameHeight="705"/>
+	<SubTexture name="MEGA SONIC LEFT0005" x="2449" y="728" width="476" height="679" frameX="-58" frameY="-19" frameWidth="578" frameHeight="705"/>
+	<SubTexture name="MEGA SONIC LEFT0006" x="2925" y="728" width="476" height="679" frameX="-58" frameY="-19" frameWidth="578" frameHeight="705"/>
+	<SubTexture name="MEGA SONIC LEFT0007" x="3401" y="728" width="420" height="679" frameX="-158" frameY="-26" frameWidth="578" frameHeight="705"/>
+	<SubTexture name="MEGA SONIC RIGHT0000" x="3821" y="728" width="552" height="651" frameX="-96" frameY="-54" frameWidth="656" frameHeight="729"/>
+	<SubTexture name="MEGA SONIC RIGHT0001" x="4373" y="728" width="562" height="557" frameX="-94" frameY="-152" frameWidth="656" frameHeight="729"/>
+	<SubTexture name="MEGA SONIC RIGHT0002" x="4935" y="728" width="562" height="610" frameX="-94" frameY="-119" frameWidth="656" frameHeight="729"/>
+	<SubTexture name="MEGA SONIC RIGHT0003" x="5497" y="728" width="562" height="569" frameX="-85" frameY="-146" frameWidth="656" frameHeight="729"/>
+	<SubTexture name="MEGA SONIC RIGHT0004" x="5497" y="728" width="562" height="569" frameX="-85" frameY="-146" frameWidth="656" frameHeight="729"/>
+	<SubTexture name="MEGA SONIC RIGHT0005" x="6059" y="728" width="544" height="600" frameX="-106" frameY="-118" frameWidth="656" frameHeight="729"/>
+	<SubTexture name="MEGA SONIC RIGHT0006" x="6603" y="728" width="506" height="597" frameX="-106" frameY="-118" frameWidth="656" frameHeight="729"/>
+	<SubTexture name="MEGA SONIC RIGHT0007" x="7109" y="728" width="515" height="657" frameX="-107" frameY="-65" frameWidth="656" frameHeight="729"/>
+	<SubTexture name="MEGA SONIC RIGHT0008" x="7624" y="728" width="438" height="647" frameX="-107" frameY="-65" frameWidth="656" frameHeight="729"/>
+	<SubTexture name="MEGA SONIC RIGHT0009" x="0" y="1429" width="397" height="700" frameX="0" frameY="0" frameWidth="656" frameHeight="729"/>
+	<SubTexture name="MEGA SONIC UP0000" x="397" y="1429" width="481" height="706" frameX="-18" frameY="0" frameWidth="499" frameHeight="842"/>
+	<SubTexture name="MEGA SONIC UP0001" x="878" y="1429" width="480" height="682" frameX="-9" frameY="-17" frameWidth="499" frameHeight="842"/>
+	<SubTexture name="MEGA SONIC UP0002" x="878" y="1429" width="480" height="682" frameX="-9" frameY="-17" frameWidth="499" frameHeight="842"/>
+	<SubTexture name="MEGA SONIC UP0003" x="1358" y="1429" width="491" height="678" frameX="0" frameY="-23" frameWidth="499" frameHeight="842"/>
+	<SubTexture name="MEGA SONIC UP0004" x="1849" y="1429" width="488" height="678" frameX="0" frameY="-23" frameWidth="499" frameHeight="842"/>
+	<SubTexture name="MEGA SONIC UP0005" x="2337" y="1429" width="491" height="674" frameX="-5" frameY="-61" frameWidth="499" frameHeight="842"/>
+	<SubTexture name="MEGA SONIC UP0006" x="2828" y="1429" width="491" height="674" frameX="-5" frameY="-61" frameWidth="499" frameHeight="842"/>
+	<SubTexture name="MEGA SONIC UP0007" x="3319" y="1429" width="452" height="666" frameX="-27" frameY="-120" frameWidth="499" frameHeight="842"/>
+	<SubTexture name="MEGA SONIC UP0008" x="3771" y="1429" width="452" height="754" frameX="-27" frameY="-32" frameWidth="499" frameHeight="842"/>
+	<SubTexture name="MEGA SONIC UP0009" x="4223" y="1429" width="464" height="668" frameX="-23" frameY="-174" frameWidth="499" frameHeight="842"/>
+</TextureAtlas>
